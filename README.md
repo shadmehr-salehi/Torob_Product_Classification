@@ -12,8 +12,8 @@ We Are Going To Use The Real Images Of a Subset Of Products In  <a href="https:/
 - ## **Usage** 
     <div style="font-size:16px">
 
-    1- Install the required packages by running pip install -r
-    `requirements.txt`
+    1- Install the required packages by running `pip install -r
+    requirements.txt`
     </div> 
 
     <div style="font-size:16px">
